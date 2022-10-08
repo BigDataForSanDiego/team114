@@ -15,13 +15,13 @@
 #### Hackathon Theme(s) (check a box(es))
 - [X] Artificial Intelligence/Machine Learning 
 > Using ML models, we are going to predict infections in surgical sites and find out the main causes of infections.
-- [X] Mobile
+- [] Mobile
 > There is no mobile app expected for this project.
 - [X] Patient experience
 > This project will help patients have a better post-surgery experience by eliminating the causes of infection.
 - [X] Health Disparities
 > This will help minority population to have a better post-surgery experience.
-- [X] Privacy and Security
+- [] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 - This process does not include any personal information so there are no privacy concerns.
 #### Team Coordinator GitHub Username: mariaelf97
